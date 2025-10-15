@@ -101,3 +101,8 @@ Implementating and documenting key security measures to safeguard application da
 - authentication
 - authorization
 - rate limiting
+
+# CI/CD Pipeline
+Setting up automated development pipelines, boosting efficiency and minimizing errors during the deployment phase via:
+- Github Actions
+- Docker etc
