@@ -95,3 +95,9 @@ The backend for the Airbnb Clone project is designed to provide a robust and sca
     Indexing: Implement indexes for fast retrieval of frequently accessed data.
     Caching: Use caching strategies to reduce database load and improve performance.
 
+# API Security
+Implementating and documenting key security measures to safeguard application data and ensure secure transactions:
+
+- authentication
+- authorization
+- rate limiting
